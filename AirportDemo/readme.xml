@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../XSLT/EclipseOverview.xslt" type="text/xsl"?>
+<sample>
+  <name>Native COBOL Airport Demo</name>
+  <contents>
+    <content linkto="overview">Overview</content>
+    <content linkto="setup">How to Import the Project into Eclipse</content>
+    <content linkto="howToRun">How to Run This Demonstration</content>
+  </contents>
+  <overview>
+    <heading>Overview</heading>
+    <directory>Eclipse\cobol\AirportDemo</directory>
+    <description>This sample is a console application that enables you to view the geographical location and the distance between two airports. It shows how to use native COBOL to handle indexed data files. The information about the airport codes is stored in the airports.dat file.</description>
+  </overview>
+  <setup>
+    <heading>How to Import the Project into Eclipse</heading>
+  </setup>
+  <howToRun>
+    <heading>How to Run This Demonstration</heading>
+    <steps>
+      <step>
+        <description>To run this demonstration in Eclipse:</description>
+        <steps>
+          <step>By default, Eclipse builds projects automatically. If automatic builds are disabled, in order to build the demonstration projects, click <b>Project > Build All</b>.</step>
+          <step>In the IDE in COBOL Explorer, expand the <b>COBOL Programs</b> folder.</step>
+          <step>Right-click <b>main.cbl</b>, and click <b>Run As > COBOL Application</b>. This starts the application console which prompts you to specify one or two airport codes.</step>
+          <step>Follow the instructions on the console.</step>
+        </steps>
+      </step>
+    </steps>
+  </howToRun>
+</sample>

@@ -1,0 +1,16 @@
+#"C:\Program Files (x86)\Micro Focus\Enterprise Developer\bin\cobol.exe" C:\EclipseWorkspaceAppo\AirportDemo\aircode.cbl DELINT USEC:\EclipseWorkspaceAppo\AirportDemo\New_Configuration.bin\mfant7266531204682606483.dir ;
+^C:\EclipseWorkspaceAppo\AirportDemo\aircode.cbl
+!C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
++C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+-C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+!C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
++C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+-C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+!C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
++C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+-C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
+!C:\EclipseWorkspaceAppo\AirportDemo\airparams.cpy
++C:\EclipseWorkspaceAppo\AirportDemo\airparams.cpy
+-C:\EclipseWorkspaceAppo\AirportDemo\airparams.cpy
+!C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
++C:\EclipseWorkspaceAppo\AirportDemo\airrec.cpy
